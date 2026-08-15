@@ -19,7 +19,7 @@
             "last_commit": "2026-08-13T04:45:02Z",
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6021
+            "stars": 6029
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2025-10-04T15:33:37Z",
             "owner": "mxrch",
             "repo": "GitFive",
-            "stars": 1019
+            "stars": 1020
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2025-03-15T18:32:37Z",
             "owner": "xforcered",
             "repo": "ADOKit",
-            "stars": 316
+            "stars": 317
           }
         },
         {
@@ -187,7 +187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:54:38.420Z",
+    "last_updated": "2026-08-15T02:42:55.485Z",
     "original_repository": "TupleType/awesome-cicd-attacks",
     "original_repository_sha": "d6fd99e44fee5b88547f2f965ebaab70e48bc4c4",
     "enhanced_repository": "enhansome/enhansome-cicd-attacks",
