@@ -19,7 +19,7 @@
             "last_commit": "2026-08-13T04:45:02Z",
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6029
+            "stars": 6034
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-07-09T17:31:17Z",
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2638
+            "stars": 2639
           }
         },
         {
@@ -187,7 +187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:42:55.485Z",
+    "last_updated": "2026-08-16T02:51:20.530Z",
     "original_repository": "TupleType/awesome-cicd-attacks",
     "original_repository_sha": "d6fd99e44fee5b88547f2f965ebaab70e48bc4c4",
     "enhanced_repository": "enhansome/enhansome-cicd-attacks",
