@@ -101,8 +101,8 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ## Tools
 
-* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,034 | 🐛 158 | 🌐 Rust | 📅 2026-08-13 - Static analysis for GitHub Actions.
-* [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,639 | 🐛 10 | 🌐 Python | 📅 2026-07-09 - Dump Git repository from a website.
+* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,035 | 🐛 157 | 🌐 Rust | 📅 2026-08-16 - Static analysis for GitHub Actions.
+* [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,638 | 🐛 10 | 🌐 Python | 📅 2026-07-09 - Dump Git repository from a website.
 * [pwn\_jenkins](https://github.com/gquere/pwn_jenkins) ⭐ 2,095 | 🐛 1 | 🌐 Python | 📅 2024-07-10 - Notes about attacking Jenkins servers.
 * [Secrets Patterns Database](https://github.com/mazen160/secrets-patterns-db) ⭐ 1,607 | 🐛 9 | 🌐 Python | 📅 2025-08-06 - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.
 * [GitFive](https://github.com/mxrch/gitfive) ⭐ 1,020 | 🐛 17 | 🌐 Python | 📅 2025-10-04 - OSINT tool to investigate GitHub profiles.
@@ -132,4 +132,4 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
