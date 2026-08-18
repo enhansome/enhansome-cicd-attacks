@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T23:13:48Z",
+            "last_commit": "2026-08-18T02:46:02Z",
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6035
+            "stars": 6217
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-07-20T17:13:24Z",
             "owner": "AdnaneKhan",
             "repo": "gato-x",
-            "stars": 568
+            "stars": 569
           }
         },
         {
@@ -187,7 +187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:51:49.249Z",
+    "last_updated": "2026-08-18T02:46:19.801Z",
     "original_repository": "TupleType/awesome-cicd-attacks",
     "original_repository_sha": "d6fd99e44fee5b88547f2f965ebaab70e48bc4c4",
     "enhanced_repository": "enhansome/enhansome-cicd-attacks",
