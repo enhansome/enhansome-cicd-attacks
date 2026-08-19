@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-18T02:46:02Z",
+            "last_commit": "2026-08-18T03:22:03Z",
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6217
+            "stars": 6328
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-07-09T17:31:17Z",
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2638
+            "stars": 2639
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2024-07-10T11:18:30Z",
             "owner": "gquere",
             "repo": "pwn_jenkins",
-            "stars": 2095
+            "stars": 2096
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2025-08-06T21:28:12Z",
             "owner": "mazen160",
             "repo": "secrets-patterns-db",
-            "stars": 1607
+            "stars": 1608
           }
         },
         {
@@ -187,7 +187,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:46:19.801Z",
+    "last_updated": "2026-08-19T02:48:31.838Z",
     "original_repository": "TupleType/awesome-cicd-attacks",
     "original_repository_sha": "d6fd99e44fee5b88547f2f965ebaab70e48bc4c4",
     "enhanced_repository": "enhansome/enhansome-cicd-attacks",
