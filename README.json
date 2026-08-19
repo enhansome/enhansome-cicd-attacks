@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "A curated list of unique and useful CI/CD attack techniques.",
-      "items": [],
-      "title": "Techniques"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 844670429,
             "language": "Rust",
             "last_commit": "2026-08-18T03:22:03Z",
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6328
+            "stars": 6337
           }
         },
         {
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86774943,
             "language": "Python",
             "last_commit": "2026-07-09T17:31:17Z",
             "owner": "arthaud",
@@ -43,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141445563,
             "language": "Python",
             "last_commit": "2024-07-10T11:18:30Z",
             "owner": "gquere",
             "repo": "pwn_jenkins",
-            "stars": 2096
+            "stars": 2097
           }
         },
         {
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 598684695,
             "language": "Python",
             "last_commit": "2025-08-06T21:28:12Z",
             "owner": "mazen160",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 546341851,
             "language": "Python",
             "last_commit": "2025-10-04T15:33:37Z",
             "owner": "mxrch",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 364371887,
             "language": "Python",
             "last_commit": "2025-07-12T00:26:28Z",
             "owner": "Accenture",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 749160816,
             "language": "Python",
             "last_commit": "2026-07-20T17:13:24Z",
             "owner": "AdnaneKhan",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 608183299,
             "language": "Python",
             "last_commit": "2026-07-10T10:15:00Z",
             "owner": "synacktiv",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 727302036,
             "language": "C#",
             "last_commit": "2025-03-15T18:32:37Z",
             "owner": "xforcered",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 585973808,
             "language": "Python",
             "last_commit": "2026-04-24T16:25:34Z",
             "owner": "praetorian-inc",
@@ -152,7 +157,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 418565888,
             "language": null,
             "last_commit": "2026-05-31T13:59:10Z",
             "owner": "rung",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1139066861,
             "language": "HTML",
             "last_commit": "2026-07-29T09:12:04Z",
             "owner": "wiz-sec-public",
@@ -187,8 +194,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:48:31.838Z",
+    "last_updated": "2026-08-19T12:19:33.222Z",
     "original_repository": "TupleType/awesome-cicd-attacks",
+    "original_repository_id": 806507332,
     "original_repository_sha": "d6fd99e44fee5b88547f2f965ebaab70e48bc4c4",
     "enhanced_repository": "enhansome/enhansome-cicd-attacks",
     "enhanced_repository_description": null,
