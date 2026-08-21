@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T03:22:03Z",
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6347
+            "stars": 6361
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-07-10T11:18:30Z",
             "owner": "gquere",
             "repo": "pwn_jenkins",
-            "stars": 2097
+            "stars": 2096
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-07-20T17:13:24Z",
             "owner": "AdnaneKhan",
             "repo": "gato-x",
-            "stars": 569
+            "stars": 570
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-07-10T10:15:00Z",
             "owner": "synacktiv",
             "repo": "nord-stream",
-            "stars": 371
+            "stars": 372
           }
         },
         {
@@ -194,7 +194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:47:59.279Z",
+    "last_updated": "2026-08-21T02:54:20.512Z",
     "original_repository": "TupleType/awesome-cicd-attacks",
     "original_repository_id": 806507332,
     "original_repository_sha": "d6fd99e44fee5b88547f2f965ebaab70e48bc4c4",
