@@ -101,8 +101,8 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ## Tools
 
-* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,374 | 🐛 167 | 🌐 Rust | 📅 2026-08-22 - Static analysis for GitHub Actions.
-* [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,640 | 🐛 10 | 🌐 Python | 📅 2026-07-09 - Dump Git repository from a website.
+* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,376 | 🐛 162 | 🌐 Rust | 📅 2026-08-23 - Static analysis for GitHub Actions.
+* [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,641 | 🐛 10 | 🌐 Python | 📅 2026-07-09 - Dump Git repository from a website.
 * [pwn\_jenkins](https://github.com/gquere/pwn_jenkins) ⭐ 2,096 | 🐛 1 | 🌐 Python | 📅 2024-07-10 - Notes about attacking Jenkins servers.
 * [Secrets Patterns Database](https://github.com/mazen160/secrets-patterns-db) ⭐ 1,609 | 🐛 9 | 🌐 Python | 📅 2025-08-06 - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.
 * [GitFive](https://github.com/mxrch/gitfive) ⭐ 1,020 | 🐛 17 | 🌐 Python | 📅 2025-10-04 - OSINT tool to investigate GitHub profiles.
@@ -125,11 +125,11 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ## Similar Projects
 
-* [Common Threat Matrix for CI/CD Pipeline](https://github.com/rung/threat-matrix-cicd) ⭐ 776 | 🐛 1 | 📅 2026-05-31
+* [Common Threat Matrix for CI/CD Pipeline](https://github.com/rung/threat-matrix-cicd) ⭐ 775 | 🐛 1 | 📅 2026-05-31
 * [SDLC Infrastructure Threat Framework (SITF)](https://github.com/wiz-sec-public/SITF) ⭐ 177 | 🐛 0 | 🌐 HTML | 📅 2026-07-29 - A comprehensive framework for analyzing and defending against attacks targeting Software Development Life Cycle Infrastructure.
 * [Open Software Supply Chain Attack Reference (OSC\&R)](https://pbom.dev/)
 * [Risk Explorer for Software Supply Chains](https://riskexplorer.endorlabs.com/#/attack-tree)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
