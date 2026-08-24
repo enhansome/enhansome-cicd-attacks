@@ -19,6 +19,7 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ### Publicly Exposed Sensitive Data
 
+* [GitLab Secrets](https://github.com/RichardoC/gitlab-secrets) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2024-08-16 - A tool that can reveal deleted GitLab commits that potentially contain sensitive information and are not accessible via the public Git history.
 * [(The) Postman Carries Lots of Secrets](https://trufflesecurity.com/blog/postman-carries-lots-of-secrets) - Postman's public API network leaks thousands of secrets due to confusing UI, forks, and insufficient secret scanning.
 * [All the Small Things: Azure CLI Leakage and Problematic Usage Patterns](https://www.paloaltonetworks.com/blog/prisma-cloud/secrets-leakage-user-error-azure-cli/) - Azure CLI leaks secrets to CI/CD logs due to usage patterns.
 * [Anyone can Access Deleted and Private Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github) - As long as it's part of a fork network.
@@ -26,7 +27,6 @@ A curated list of unique and useful CI/CD attack techniques.
 * [CloudQuarry: Digging for secrets in public AMIs](https://securitycafe.ro/2024/05/08/aws-cloudquarry-digging-for-secrets-in-public-amis/) - Researchers found 500GB of credentials, private repos, and keys in public AWS AMIs, impacting various industries.
 * [Employee Personal GitHub Repos Expose Internal Azure and Red Hat Secrets](https://www.aquasec.com/blog/github-repos-expose-azure-and-red-hat-secrets/) - Employee's personal GitHub repos expose internal Azure & Red Hat secrets.
 * [Fortune 500 at Risk: 250M Artifacts Exposed via Misconfigured Registries](https://www.aquasec.com/blog/250m-artifacts-exposed-via-misconfigured-registries/) - Misconfigured public registries with software artifacts containing sensitive proprietary code and secrets.
-* [GitLab Secrets](https://github.com/RichardoC/gitlab-secrets) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2024-08-16 - A tool that can reveal deleted GitLab commits that potentially contain sensitive information and are not accessible via the public Git history.
 * [Hidden GitHub Commits and How to Reveal Them](https://neodyme.io/en/blog/github_secrets/) - A tool that can reveal deleted GitHub commits that potentially contain sensitive information and are not accessible via the public Git history.
 * [Holes in Your Bitbucket: Why Your CI/CD Pipeline Is Leaking Secrets](https://cloud.google.com/blog/topics/threat-intelligence/bitbucket-pipeline-leaking-secrets) - Bitbucket Secured Variables leak secrets via artifact objects; recommendations include using dedicated secrets managers and code scanning.
 * [Millions of Secrets Exposed via Web Application Frontends](https://web.archive.org/web/20230531032433/https://redhuntlabs.com/blog/millions-of-secrets-exposed-via-web-application-frontend/) - Millions of secrets exposed in web app frontends via JavaScript and debug pages.
@@ -67,13 +67,13 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ### Post Exploitation
 
+* [Living off the pipeline](https://github.com/boostsecurityio/lotp) ⭐ 161 | 🐛 31 | 🌐 HTML | 📅 2026-07-31 - Inventory how development tools (typically CLIs), have lesser-known RCE-By-Design features.
 * [From Self-Hosted GitHub Runner to Self-Hosted Backdoor](https://www.praetorian.com/blog/self-hosted-github-runners-are-backdoors/) - Attackers exploit misconfigured runners and weak PAT security to gain persistence, escalate privileges, and move laterally.
 * [Hacking Terraform State for Privilege Escalation](https://blog.plerion.com/hacking-terraform-state-privilege-escalation/) - Modifying a Terraform state file allows attackers to delete infrastructure or execute code via custom providers.
 * [Hijacking GitHub runners to compromise the organization](https://www.synacktiv.com/publications/hijacking-github-runners-to-compromise-the-organization) - Registering a GitHub runner with the ubuntu-latest tag grants access to jobs originally designated for GitHub-provisioned runners.
 * [How We Discovered Vulnerabilities in CI/CD Pipelines of Popular Open-Source Projects](https://cycode.com/blog/github-actions-vulnerabilities) - Extracting all repository and organization secrets in GitHub Actions.
 * [Invisible Ghost: Alarming Vulnerability in GitHub Copilot](https://www.apexhq.ai/blog/blog/invisible-ghost-alarming-vulnerability-in-github-copilot/) - Using hidden Unicode characters to manipulate GitHub Copilot's suggestions.
 * [Leaking Secrets From GitHub Actions: Reading Files And Environment Variables, Intercepting Network/Process Communication, Dumping Memory](https://karimrahal.com/2023/01/05/github-actions-leaking-secrets/) - Leaking secrets from vulnerable GitHub Actions workflows is possible via several methods: reading files/environment variables, intercepting communication, and dumping runner memory.
-* [Living off the pipeline](https://github.com/boostsecurityio/lotp) ⭐ 161 | 🐛 31 | 🌐 HTML | 📅 2026-07-31 - Inventory how development tools (typically CLIs), have lesser-known RCE-By-Design features.
 
 <!--lint ignore awesome-list-item-->
 
@@ -82,6 +82,7 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ### Defense Evasion
 
+* [PR sneaking](https://github.com/mortenson/pr-sneaking) ⭐ 11 | 🐛 1 | 🌐 CSS | 📅 2017-05-29 - Methods of sneaking malicious code into GitHub pull requests.
 * [#redteam tip: want to discretely extract credentials from a CI/CD pipeline?](https://twitter.com/_alxk/status/1442519103885959172?s=21) - Draft pull requests won't alert repository contributors, but will still trigger pipelines.
 * [Abusing Repository Webhooks to Access Internal CI/CD Systems at Scale](https://www.paloaltonetworks.com/blog/prisma-cloud/repository-webhook-abuse-access-ci-cd-systems-at-scale/) - Repository webhooks, used to trigger CI/CD pipelines, can be abused to access internal systems.
 * [Bypassing required reviews using GitHub Actions](https://medium.com/cider-sec/bypassing-required-reviews-using-github-actions-6e1b29135cc7) -  GitHub Actions can bypass required reviews, allowing malicious code pushes to protected branches.
@@ -89,7 +90,6 @@ A curated list of unique and useful CI/CD attack techniques.
 * [GitHub comments abused to push malware via Microsoft repo URLs](https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/) - Hidden GitHub comment link.
 * [How a Single Vulnerability Can Bring Down the JavaScript Ecosystem](https://www.landh.tech/blog/20240603-npm-cache-poisoning/) - Cache poisoning attack on the NPM registry rendering packages unavailable.
 * [One Supply Chain Attack to Rule Them All – Poisoning GitHub's Runner Images](https://adnanthekhan.com/2023/12/20/one-supply-chain-attack-to-rule-them-all/) - A critical vulnerability in GitHub Actions, involving a misconfigured self-hosted runner in the actions/runner-images repository, allowed potential compromise of all GitHub and Azure hosted runner images.
-* [PR sneaking](https://github.com/mortenson/pr-sneaking) ⭐ 11 | 🐛 1 | 🌐 CSS | 📅 2017-05-29 - Methods of sneaking malicious code into GitHub pull requests.
 * [Remove evidence of malicious pull requests on GitHub](https://x.com/adnanthekhan/status/1829116171045474374) - Changing account's email to block-listed domain, automatically bans the account.
 * [StarJacking – Making Your New Open Source Package Popular in a Snap](https://checkmarx.com/blog/starjacking-making-your-new-open-source-package-popular-in-a-snap/) - StarJacking is a technique where attackers make malicious open-source packages appear popular.
 * [The massive bug at the heart of the npm ecosystem](https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem) - NPM Manifest Confusion.
@@ -101,7 +101,7 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ## Tools
 
-* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,376 | 🐛 162 | 🌐 Rust | 📅 2026-08-23 - Static analysis for GitHub Actions.
+* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,380 | 🐛 164 | 🌐 Rust | 📅 2026-08-24 - Static analysis for GitHub Actions.
 * [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,641 | 🐛 10 | 🌐 Python | 📅 2026-07-09 - Dump Git repository from a website.
 * [pwn\_jenkins](https://github.com/gquere/pwn_jenkins) ⭐ 2,096 | 🐛 1 | 🌐 Python | 📅 2024-07-10 - Notes about attacking Jenkins servers.
 * [Secrets Patterns Database](https://github.com/mazen160/secrets-patterns-db) ⭐ 1,609 | 🐛 9 | 🌐 Python | 📅 2025-08-06 - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.

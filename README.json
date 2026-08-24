@@ -1,6 +1,100 @@
 {
   "items": [
     {
+      "description": "A curated list of unique and useful CI/CD attack techniques.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitLab Secrets",
+              "description": "A tool that can reveal deleted GitLab commits that potentially contain sensitive information and are not accessible via the public Git history.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 762847622,
+                "language": "Python",
+                "last_commit": "2024-08-16T10:48:46Z",
+                "owner": "RichardoC",
+                "repo": "gitlab-secrets",
+                "stars": 47
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Publicly Exposed Sensitive Data"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ActionsTOCTOU (Time Of Check to Time Of Use)",
+              "description": "A tool to monitor for an approval event and then quickly replace a file in the PR head with a local file specified as a parameter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 783442320,
+                "language": "Python",
+                "last_commit": "2026-01-25T20:30:54Z",
+                "owner": "AdnaneKhan",
+                "repo": "ActionsTOCTOU",
+                "stars": 44
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Initial Code Execution"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Living off the pipeline",
+              "description": "Inventory how development tools (typically CLIs), have lesser-known RCE-By-Design features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 758064230,
+                "language": "HTML",
+                "last_commit": "2026-07-31T15:48:01Z",
+                "owner": "boostsecurityio",
+                "repo": "lotp",
+                "stars": 161
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Post Exploitation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PR sneaking",
+              "description": "Methods of sneaking malicious code into GitHub pull requests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92688539,
+                "language": "CSS",
+                "last_commit": "2017-05-29T22:30:02Z",
+                "owner": "mortenson",
+                "repo": "pr-sneaking",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Defense Evasion"
+        }
+      ],
+      "title": "Techniques"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -12,10 +106,10 @@
             "archived": false,
             "id": 844670429,
             "language": "Rust",
-            "last_commit": "2026-08-23T22:28:18Z",
+            "last_commit": "2026-08-24T13:36:40Z",
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6376
+            "stars": 6380
           }
         },
         {
@@ -194,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:54:36.015Z",
+    "last_updated": "2026-08-24T14:22:59.012Z",
     "original_repository": "TupleType/awesome-cicd-attacks",
     "original_repository_id": 806507332,
     "original_repository_sha": "d6fd99e44fee5b88547f2f965ebaab70e48bc4c4",
