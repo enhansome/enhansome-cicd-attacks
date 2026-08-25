@@ -109,7 +109,7 @@
             "last_commit": "2026-08-25T00:09:26Z",
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6382
+            "stars": 6384
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-07-20T17:13:24Z",
             "owner": "AdnaneKhan",
             "repo": "gato-x",
-            "stars": 574
+            "stars": 575
           }
         },
         {
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:49:53.411Z",
+    "last_updated": "2026-08-25T06:14:10.635Z",
     "original_repository": "TupleType/awesome-cicd-attacks",
     "original_repository_id": 806507332,
     "original_repository_sha": "d6fd99e44fee5b88547f2f965ebaab70e48bc4c4",
