@@ -106,10 +106,10 @@
             "archived": false,
             "id": 844670429,
             "language": "Rust",
-            "last_commit": "2026-08-25T00:09:26Z",
+            "last_commit": "2026-08-26T00:57:02Z",
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6384
+            "stars": 6388
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-07-09T17:31:17Z",
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2641
+            "stars": 2643
           }
         },
         {
@@ -174,6 +174,21 @@
         },
         {
           "node_type": "item",
+          "title": "Gato-X",
+          "description": "GitHub Attack Toolkit - Extreme Edition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 749160816,
+            "language": "Python",
+            "last_commit": "2026-07-20T17:13:24Z",
+            "owner": "AdnaneKhan",
+            "repo": "gato-x",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Jenkins Attack Framework",
           "description": "This tool can manage Jenkins tasks, like listing jobs, dumping credentials, running commands/scripts, and managing API tokens.",
           "children": [],
@@ -185,21 +200,6 @@
             "owner": "Accenture",
             "repo": "jenkins-attack-framework",
             "stars": 578
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gato-X",
-          "description": "GitHub Attack Toolkit - Extreme Edition.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 749160816,
-            "language": "Python",
-            "last_commit": "2026-07-20T17:13:24Z",
-            "owner": "AdnaneKhan",
-            "repo": "gato-x",
-            "stars": 575
           }
         },
         {
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:14:10.635Z",
+    "last_updated": "2026-08-26T02:56:01.338Z",
     "original_repository": "TupleType/awesome-cicd-attacks",
     "original_repository_id": 806507332,
     "original_repository_sha": "d6fd99e44fee5b88547f2f965ebaab70e48bc4c4",
