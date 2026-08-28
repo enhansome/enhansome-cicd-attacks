@@ -18,7 +18,8 @@
                 "owner": "RichardoC",
                 "repo": "gitlab-secrets",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T13:30:17.335Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "AdnaneKhan",
                 "repo": "ActionsTOCTOU",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T13:30:17.335Z"
             }
           ],
           "description": null,
@@ -61,8 +63,9 @@
                 "last_commit": "2026-07-31T15:48:01Z",
                 "owner": "boostsecurityio",
                 "repo": "lotp",
-                "stars": 161
-              }
+                "stars": 162
+              },
+              "first_seen": "2026-08-28T13:30:17.335Z"
             }
           ],
           "description": null,
@@ -84,7 +87,8 @@
                 "owner": "mortenson",
                 "repo": "pr-sneaking",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T13:30:17.335Z"
             }
           ],
           "description": null,
@@ -106,11 +110,12 @@
             "archived": false,
             "id": 844670429,
             "language": "Rust",
-            "last_commit": "2026-08-27T03:20:16Z",
+            "last_commit": "2026-08-28T05:52:53Z",
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6398
-          }
+            "stars": 6405
+          },
+          "first_seen": "2026-08-28T13:30:17.335Z"
         },
         {
           "node_type": "item",
@@ -121,11 +126,12 @@
             "archived": false,
             "id": 86774943,
             "language": "Python",
-            "last_commit": "2026-08-27T07:42:22Z",
+            "last_commit": "2026-08-28T07:46:31Z",
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2647
-          }
+            "stars": 2648
+          },
+          "first_seen": "2026-08-28T13:30:17.335Z"
         },
         {
           "node_type": "item",
@@ -140,7 +146,8 @@
             "owner": "gquere",
             "repo": "pwn_jenkins",
             "stars": 2096
-          }
+          },
+          "first_seen": "2026-08-28T13:30:17.335Z"
         },
         {
           "node_type": "item",
@@ -154,8 +161,9 @@
             "last_commit": "2025-08-06T21:28:12Z",
             "owner": "mazen160",
             "repo": "secrets-patterns-db",
-            "stars": 1609
-          }
+            "stars": 1611
+          },
+          "first_seen": "2026-08-28T13:30:17.335Z"
         },
         {
           "node_type": "item",
@@ -169,8 +177,9 @@
             "last_commit": "2025-10-04T15:33:37Z",
             "owner": "mxrch",
             "repo": "GitFive",
-            "stars": 1019
-          }
+            "stars": 1018
+          },
+          "first_seen": "2026-08-28T13:30:17.335Z"
         },
         {
           "node_type": "item",
@@ -184,8 +193,9 @@
             "last_commit": "2026-07-20T17:13:24Z",
             "owner": "AdnaneKhan",
             "repo": "gato-x",
-            "stars": 581
-          }
+            "stars": 582
+          },
+          "first_seen": "2026-08-28T13:30:17.335Z"
         },
         {
           "node_type": "item",
@@ -200,7 +210,8 @@
             "owner": "Accenture",
             "repo": "jenkins-attack-framework",
             "stars": 578
-          }
+          },
+          "first_seen": "2026-08-28T13:30:17.335Z"
         },
         {
           "node_type": "item",
@@ -215,7 +226,8 @@
             "owner": "synacktiv",
             "repo": "nord-stream",
             "stars": 373
-          }
+          },
+          "first_seen": "2026-08-28T13:30:17.335Z"
         },
         {
           "node_type": "item",
@@ -230,7 +242,8 @@
             "owner": "xforcered",
             "repo": "ADOKit",
             "stars": 317
-          }
+          },
+          "first_seen": "2026-08-28T13:30:17.335Z"
         },
         {
           "node_type": "item",
@@ -245,7 +258,8 @@
             "owner": "praetorian-inc",
             "repo": "gato",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T13:30:17.335Z"
         }
       ],
       "title": "Tools"
@@ -266,7 +280,8 @@
             "owner": "rung",
             "repo": "threat-matrix-cicd",
             "stars": 775
-          }
+          },
+          "first_seen": "2026-08-28T13:30:17.335Z"
         },
         {
           "node_type": "item",
@@ -281,14 +296,15 @@
             "owner": "wiz-sec-public",
             "repo": "SITF",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T13:30:17.335Z"
         }
       ],
       "title": "Similar Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:13:43.476Z",
+    "last_updated": "2026-08-28T13:30:17.335Z",
     "original_repository_info": {
       "archived": false,
       "id": 806507332,
