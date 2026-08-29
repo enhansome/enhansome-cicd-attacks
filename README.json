@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This tool analyzes a given Gitlab repository and searches for dangling or force-pushed commits containing potential secret or interesting information.",
+                "homepage": null,
                 "id": 762847622,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-16T10:48:46Z",
+                "open_issues": 0,
                 "owner": "RichardoC",
                 "repo": "gitlab-secrets",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:30:17.335Z"
             }
@@ -35,12 +40,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example repository for GitHub Actions Time of Check to Time of Use (TOCTOU vulnerabilities)",
+                "homepage": null,
                 "id": 783442320,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-25T20:30:54Z",
+                "open_issues": 0,
                 "owner": "AdnaneKhan",
                 "repo": "ActionsTOCTOU",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "actions",
+                  "bugbounty",
+                  "cicd"
+                ]
               },
               "first_seen": "2026-08-28T13:30:17.335Z"
             }
@@ -58,12 +72,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Supply Chain Security Research - Living Off The Pipeline tools",
+                "homepage": null,
                 "id": 758064230,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-31T15:48:01Z",
+                "open_issues": 31,
                 "owner": "boostsecurityio",
                 "repo": "lotp",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "living-off-the-pipeline",
+                  "lotp",
+                  "supply-chain-security"
+                ]
               },
               "first_seen": "2026-08-28T13:30:17.335Z"
             }
@@ -81,12 +104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repository demonstrating how you can sneak malicious code into Github PRs",
+                "homepage": null,
                 "id": 92688539,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2017-05-29T22:30:02Z",
+                "open_issues": 1,
                 "owner": "mortenson",
                 "repo": "pr-sneaking",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:30:17.335Z"
             }
@@ -108,12 +136,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static analysis for GitHub Actions",
+            "homepage": "http://docs.zizmor.sh/",
             "id": 844670429,
             "language": "Rust",
-            "last_commit": "2026-08-28T05:52:53Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:14:23Z",
+            "open_issues": 160,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6405
+            "stars": 6406,
+            "topics": [
+              "github-actions",
+              "security",
+              "security-tools",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
         },
@@ -124,12 +162,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to dump a git repository from a website",
+            "homepage": null,
             "id": 86774943,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T07:46:31Z",
+            "open_issues": 10,
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2648
+            "stars": 2649,
+            "topics": [
+              "git",
+              "security",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
         },
@@ -140,12 +187,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Notes about attacking Jenkins servers",
+            "homepage": null,
             "id": 141445563,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-10T11:18:30Z",
+            "open_issues": 1,
             "owner": "gquere",
             "repo": "pwn_jenkins",
-            "stars": 2096
+            "stars": 2096,
+            "topics": [
+              "exploit",
+              "hacking",
+              "jenkins",
+              "pentest",
+              "rce"
+            ]
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
         },
@@ -156,12 +214,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.",
+            "homepage": "https://mazinahmed.net/blog/secrets-patterns-db/",
             "id": 598684695,
             "language": "Python",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2025-08-06T21:28:12Z",
+            "open_issues": 9,
             "owner": "mazen160",
             "repo": "secrets-patterns-db",
-            "stars": 1611
+            "stars": 1611,
+            "topics": [
+              "gitleaks",
+              "regex",
+              "regular-expression",
+              "regular-expressions",
+              "secrets",
+              "secrets-detection",
+              "trufflehog",
+              "trufflehog3"
+            ]
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
         },
@@ -172,12 +244,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐙 Track down GitHub users.",
+            "homepage": null,
             "id": 546341851,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2025-10-04T15:33:37Z",
+            "open_issues": 17,
             "owner": "mxrch",
             "repo": "GitFive",
-            "stars": 1018
+            "stars": 1018,
+            "topics": [
+              "github",
+              "hideandsec",
+              "malfrats",
+              "osint",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
         },
@@ -188,12 +271,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Attack Toolkit - Extreme Edition - A static analysis and exploit toolkit for GitHub Actions.",
+            "homepage": "https://adnanekhan.github.io/gato-x/",
             "id": 749160816,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-20T17:13:24Z",
+            "open_issues": 21,
             "owner": "AdnaneKhan",
             "repo": "gato-x",
-            "stars": 582
+            "stars": 583,
+            "topics": [
+              "bugbounty",
+              "cicd",
+              "github",
+              "github-actions",
+              "hacking",
+              "red-team"
+            ]
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
         },
@@ -204,12 +299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 364371887,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-12T00:26:28Z",
+            "open_issues": 0,
             "owner": "Accenture",
             "repo": "jenkins-attack-framework",
-            "stars": 578
+            "stars": 578,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
         },
@@ -220,12 +320,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nord Stream is a tool that allows you to extract secrets stored inside CI/CD environments by deploying malicious pipelines. It currently supports Azure DevOps, GitHub and GitLab.",
+            "homepage": "https://www.synacktiv.com/publications/cicd-secrets-extraction-tips-and-tricks",
             "id": 608183299,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-10T10:15:00Z",
+            "open_issues": 1,
             "owner": "synacktiv",
             "repo": "nord-stream",
-            "stars": 373
+            "stars": 373,
+            "topics": [
+              "azuredevops",
+              "ci-cd",
+              "cicd",
+              "github",
+              "gitlab",
+              "gitlab-ci"
+            ]
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
         },
@@ -236,12 +348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Azure DevOps Services Attack Toolkit",
+            "homepage": null,
             "id": 727302036,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-15T18:32:37Z",
+            "open_issues": 0,
             "owner": "xforcered",
             "repo": "ADOKit",
-            "stars": 317
+            "stars": 317,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
         },
@@ -252,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GitHub Actions Pipeline Enumeration and Attack Tool",
+            "homepage": null,
             "id": 585973808,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-24T16:25:34Z",
+            "open_issues": 15,
             "owner": "praetorian-inc",
             "repo": "gato",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
         }
@@ -274,12 +396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Threat matrix for CI/CD Pipeline",
+            "homepage": null,
             "id": 418565888,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-31T13:59:10Z",
+            "open_issues": 1,
             "owner": "rung",
             "repo": "threat-matrix-cicd",
-            "stars": 775
+            "stars": 775,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
         },
@@ -290,12 +417,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive framework for analyzing and defending against attacks targeting Software Development Life Cycle Infrastructure.",
+            "homepage": "https://wiz-sec-public.github.io/SITF/",
             "id": 1139066861,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-29T09:12:04Z",
+            "open_issues": 0,
             "owner": "wiz-sec-public",
             "repo": "SITF",
-            "stars": 178
+            "stars": 178,
+            "topics": [
+              "agent-skills",
+              "sdlc-security",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
         }
@@ -304,15 +440,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:30:17.335Z",
+    "last_updated": "2026-08-29T04:38:59.142Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
+      "homepage": null,
       "id": 806507332,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-02T07:49:50Z",
+      "open_issues": 1,
       "owner": "TupleType",
       "repo": "awesome-cicd-attacks",
-      "stars": 628
+      "stars": 628,
+      "topics": [
+        "appsec",
+        "awesome",
+        "awesome-list",
+        "bugbounty",
+        "cicd",
+        "cybersecurity",
+        "devesecops",
+        "hacking",
+        "infosec",
+        "offensive-security",
+        "penetration-testing",
+        "research",
+        "tools"
+      ]
     },
     "original_repository_sha": "d6fd99e44fee5b88547f2f965ebaab70e48bc4c4",
     "enhanced_repository": "enhansome/enhansome-cicd-attacks",
