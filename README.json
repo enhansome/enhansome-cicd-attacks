@@ -81,7 +81,7 @@
                 "open_issues": 31,
                 "owner": "boostsecurityio",
                 "repo": "lotp",
-                "stars": 162,
+                "stars": 163,
                 "topics": [
                   "living-off-the-pipeline",
                   "lotp",
@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-29T19:12:08Z",
+            "last_commit": "2026-08-30T21:21:54Z",
             "open_issues": 159,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6409,
+            "stars": 6418,
             "topics": [
               "github-actions",
               "security",
@@ -280,7 +280,7 @@
             "open_issues": 21,
             "owner": "AdnaneKhan",
             "repo": "gato-x",
-            "stars": 582,
+            "stars": 583,
             "topics": [
               "bugbounty",
               "cicd",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T07:38:03.348Z",
+    "last_updated": "2026-08-31T07:51:17.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",

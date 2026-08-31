@@ -67,7 +67,7 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ### Post Exploitation
 
-* [Living off the pipeline](https://github.com/boostsecurityio/lotp) ⭐ 162 | 🐛 31 | 🌐 HTML | 📅 2026-07-31 - Inventory how development tools (typically CLIs), have lesser-known RCE-By-Design features.
+* [Living off the pipeline](https://github.com/boostsecurityio/lotp) ⭐ 163 | 🐛 31 | 🌐 HTML | 📅 2026-07-31 - Inventory how development tools (typically CLIs), have lesser-known RCE-By-Design features.
 * [From Self-Hosted GitHub Runner to Self-Hosted Backdoor](https://www.praetorian.com/blog/self-hosted-github-runners-are-backdoors/) - Attackers exploit misconfigured runners and weak PAT security to gain persistence, escalate privileges, and move laterally.
 * [Hacking Terraform State for Privilege Escalation](https://blog.plerion.com/hacking-terraform-state-privilege-escalation/) - Modifying a Terraform state file allows attackers to delete infrastructure or execute code via custom providers.
 * [Hijacking GitHub runners to compromise the organization](https://www.synacktiv.com/publications/hijacking-github-runners-to-compromise-the-organization) - Registering a GitHub runner with the ubuntu-latest tag grants access to jobs originally designated for GitHub-provisioned runners.
@@ -101,12 +101,12 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ## Tools
 
-* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,409 | 🐛 159 | 🌐 Rust | 📅 2026-08-29 - Static analysis for GitHub Actions.
+* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,418 | 🐛 159 | 🌐 Rust | 📅 2026-08-30 - Static analysis for GitHub Actions.
 * [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,649 | 🐛 10 | 🌐 Python | 📅 2026-08-28 - Dump Git repository from a website.
 * [pwn\_jenkins](https://github.com/gquere/pwn_jenkins) ⭐ 2,096 | 🐛 1 | 🌐 Python | 📅 2024-07-10 - Notes about attacking Jenkins servers.
 * [Secrets Patterns Database](https://github.com/mazen160/secrets-patterns-db) ⭐ 1,611 | 🐛 9 | 🌐 Python | 📅 2025-08-06 - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.
 * [GitFive](https://github.com/mxrch/gitfive) ⭐ 1,017 | 🐛 17 | 🌐 Python | 📅 2025-10-04 - OSINT tool to investigate GitHub profiles.
-* [Gato-X](https://github.com/AdnaneKhan/Gato-X) ⭐ 582 | 🐛 21 | 🌐 Python | 📅 2026-07-20 - GitHub Attack Toolkit - Extreme Edition.
+* [Gato-X](https://github.com/AdnaneKhan/Gato-X) ⭐ 583 | 🐛 21 | 🌐 Python | 📅 2026-07-20 - GitHub Attack Toolkit - Extreme Edition.
 * [Jenkins Attack Framework](https://github.com/Accenture/jenkins-attack-framework) ⭐ 578 | 🐛 0 | 🌐 Python | 📅 2025-07-12 - This tool can manage Jenkins tasks, like listing jobs, dumping credentials, running commands/scripts, and managing API tokens.
 * [Nord Stream](https://github.com/synacktiv/nord-stream) ⭐ 373 | 🐛 1 | 🌐 Python | 📅 2026-07-10 - A tool to extract secrets stored inside CI/CD environments.
 * [ADOKit](https://github.com/xforcered/ADOKit) ⭐ 317 | 🐛 0 | 🌐 C# | 📅 2025-03-15 - Azure DevOps Services Attack Toolkit.
@@ -132,4 +132,4 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
