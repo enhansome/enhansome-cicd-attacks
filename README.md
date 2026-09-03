@@ -101,14 +101,14 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ## Tools
 
-* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,428 | 🐛 165 | 🌐 Rust | 📅 2026-09-02 - Static analysis for GitHub Actions.
+* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,435 | 🐛 164 | 🌐 Rust | 📅 2026-09-03 - Static analysis for GitHub Actions.
 * [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,652 | 🐛 10 | 🌐 Python | 📅 2026-08-28 - Dump Git repository from a website.
-* [pwn\_jenkins](https://github.com/gquere/pwn_jenkins) ⭐ 2,096 | 🐛 1 | 🌐 Python | 📅 2024-07-10 - Notes about attacking Jenkins servers.
+* [pwn\_jenkins](https://github.com/gquere/pwn_jenkins) ⭐ 2,095 | 🐛 1 | 🌐 Python | 📅 2024-07-10 - Notes about attacking Jenkins servers.
 * [Secrets Patterns Database](https://github.com/mazen160/secrets-patterns-db) ⭐ 1,612 | 🐛 9 | 🌐 Python | 📅 2025-08-06 - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.
 * [GitFive](https://github.com/mxrch/gitfive) ⭐ 1,017 | 🐛 17 | 🌐 Python | 📅 2025-10-04 - OSINT tool to investigate GitHub profiles.
 * [Gato-X](https://github.com/AdnaneKhan/Gato-X) ⭐ 585 | 🐛 21 | 🌐 Python | 📅 2026-07-20 - GitHub Attack Toolkit - Extreme Edition.
 * [Jenkins Attack Framework](https://github.com/Accenture/jenkins-attack-framework) ⭐ 578 | 🐛 0 | 🌐 Python | 📅 2025-07-12 - This tool can manage Jenkins tasks, like listing jobs, dumping credentials, running commands/scripts, and managing API tokens.
-* [Nord Stream](https://github.com/synacktiv/nord-stream) ⭐ 373 | 🐛 1 | 🌐 Python | 📅 2026-07-10 - A tool to extract secrets stored inside CI/CD environments.
+* [Nord Stream](https://github.com/synacktiv/nord-stream) ⭐ 374 | 🐛 1 | 🌐 Python | 📅 2026-07-10 - A tool to extract secrets stored inside CI/CD environments.
 * [ADOKit](https://github.com/xforcered/ADOKit) ⭐ 317 | 🐛 0 | 🌐 C# | 📅 2025-03-15 - Azure DevOps Services Attack Toolkit.
 * [Gato](https://github.com/praetorian-inc/gato) ⚠️ Archived - GitHub Attack Toolkit.
 * [GH Archive](https://www.gharchive.org/) - A project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
@@ -132,4 +132,4 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

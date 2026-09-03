@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-02T00:07:11Z",
-            "open_issues": 165,
+            "last_commit": "2026-09-03T00:58:36Z",
+            "open_issues": 164,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6428,
+            "stars": 6435,
             "topics": [
               "github-actions",
               "security",
@@ -196,7 +196,7 @@
             "open_issues": 1,
             "owner": "gquere",
             "repo": "pwn_jenkins",
-            "stars": 2096,
+            "stars": 2095,
             "topics": [
               "exploit",
               "hacking",
@@ -329,7 +329,7 @@
             "open_issues": 1,
             "owner": "synacktiv",
             "repo": "nord-stream",
-            "stars": 373,
+            "stars": 374,
             "topics": [
               "azuredevops",
               "ci-cd",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T06:35:47.555Z",
+    "last_updated": "2026-09-03T06:38:32.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
