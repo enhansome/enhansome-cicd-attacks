@@ -142,10 +142,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-04T06:19:08Z",
-            "open_issues": 162,
+            "open_issues": 163,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6451,
+            "stars": 6455,
             "topics": [
               "github-actions",
               "security",
@@ -167,11 +167,11 @@
             "id": 86774943,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T07:46:31Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-06T10:08:51Z",
+            "open_issues": 10,
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2654,
+            "stars": 2655,
             "topics": [
               "git",
               "security",
@@ -196,7 +196,7 @@
             "open_issues": 1,
             "owner": "gquere",
             "repo": "pwn_jenkins",
-            "stars": 2095,
+            "stars": 2096,
             "topics": [
               "exploit",
               "hacking",
@@ -280,7 +280,7 @@
             "open_issues": 22,
             "owner": "AdnaneKhan",
             "repo": "gato-x",
-            "stars": 587,
+            "stars": 588,
             "topics": [
               "bugbounty",
               "cicd",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T06:37:15.161Z",
+    "last_updated": "2026-09-07T06:45:34.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
