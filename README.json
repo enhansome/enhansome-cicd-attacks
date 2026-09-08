@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-04T06:19:08Z",
-            "open_issues": 163,
+            "last_commit": "2026-09-07T13:36:26Z",
+            "open_issues": 166,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6455,
+            "stars": 6458,
             "topics": [
               "github-actions",
               "security",
@@ -196,7 +196,7 @@
             "open_issues": 1,
             "owner": "gquere",
             "repo": "pwn_jenkins",
-            "stars": 2096,
+            "stars": 2097,
             "topics": [
               "exploit",
               "hacking",
@@ -223,7 +223,7 @@
             "open_issues": 9,
             "owner": "mazen160",
             "repo": "secrets-patterns-db",
-            "stars": 1612,
+            "stars": 1613,
             "topics": [
               "gitleaks",
               "regex",
@@ -280,7 +280,7 @@
             "open_issues": 22,
             "owner": "AdnaneKhan",
             "repo": "gato-x",
-            "stars": 588,
+            "stars": 589,
             "topics": [
               "bugbounty",
               "cicd",
@@ -426,7 +426,7 @@
             "open_issues": 0,
             "owner": "wiz-sec-public",
             "repo": "SITF",
-            "stars": 179,
+            "stars": 180,
             "topics": [
               "agent-skills",
               "sdlc-security",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T06:45:34.928Z",
+    "last_updated": "2026-09-08T06:42:39.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
