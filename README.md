@@ -101,8 +101,8 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ## Tools
 
-* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,470 | 🐛 165 | 🌐 Rust | 📅 2026-09-09 - Static analysis for GitHub Actions.
-* [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,655 | 🐛 10 | 🌐 Python | 📅 2026-09-06 - Dump Git repository from a website.
+* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,477 | 🐛 160 | 🌐 Rust | 📅 2026-09-11 - Static analysis for GitHub Actions.
+* [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,656 | 🐛 10 | 🌐 Python | 📅 2026-09-06 - Dump Git repository from a website.
 * [pwn\_jenkins](https://github.com/gquere/pwn_jenkins) ⭐ 2,097 | 🐛 1 | 🌐 Python | 📅 2024-07-10 - Notes about attacking Jenkins servers.
 * [Secrets Patterns Database](https://github.com/mazen160/secrets-patterns-db) ⭐ 1,616 | 🐛 9 | 🌐 Python | 📅 2025-08-06 - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.
 * [GitFive](https://github.com/mxrch/gitfive) ⭐ 1,017 | 🐛 17 | 🌐 Python | 📅 2025-10-04 - OSINT tool to investigate GitHub profiles.
@@ -120,7 +120,7 @@ A curated list of unique and useful CI/CD attack techniques.
 ## Case Studies
 
 * [10 real-world stories of how we've compromised CI/CD pipelines](https://www.nccgroup.com/research-blog/10-real-world-stories-of-how-we-ve-compromised-cicd-pipelines/) - Examples include exploiting S3 misconfigurations, Jenkins plugin flaws, GitLab runner privilege escalations, Kubernetes pod annotation vulnerabilities, and compromised developer laptops.
-* [GitHub Actions Attack Diagram](https://github.com/jstawinski/GitHub-Actions-Attack-Diagram) ⭐ 193 | 🐛 0 | 📅 2025-04-16 - Includes public vulnerability research presented at Black Hat USA 2024 and DEF CON 32.
+* [GitHub Actions Attack Diagram](https://github.com/jstawinski/GitHub-Actions-Attack-Diagram) ⭐ 194 | 🐛 0 | 📅 2025-04-16 - Includes public vulnerability research presented at Black Hat USA 2024 and DEF CON 32.
 * [Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/) - Researchers exploited a critical PyTorch vulnerability via a malicious pull request to execute code on self-hosted runners.
 
 ## Similar Projects
@@ -132,4 +132,4 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
