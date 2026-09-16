@@ -145,7 +145,7 @@
             "open_issues": 160,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6512,
+            "stars": 6519,
             "topics": [
               "github-actions",
               "security",
@@ -171,7 +171,7 @@
             "open_issues": 10,
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2660,
+            "stars": 2662,
             "topics": [
               "git",
               "security",
@@ -253,7 +253,7 @@
             "open_issues": 17,
             "owner": "mxrch",
             "repo": "GitFive",
-            "stars": 1018,
+            "stars": 1016,
             "topics": [
               "github",
               "hideandsec",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:55:46.846Z",
+    "last_updated": "2026-09-16T06:57:54.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
@@ -452,7 +452,7 @@
       "open_issues": 1,
       "owner": "TupleType",
       "repo": "awesome-cicd-attacks",
-      "stars": 630,
+      "stars": 631,
       "topics": [
         "appsec",
         "awesome",
