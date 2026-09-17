@@ -142,10 +142,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-15T04:04:58Z",
-            "open_issues": 160,
+            "open_issues": 161,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6519,
+            "stars": 6523,
             "topics": [
               "github-actions",
               "security",
@@ -171,7 +171,7 @@
             "open_issues": 10,
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2662,
+            "stars": 2661,
             "topics": [
               "git",
               "security",
@@ -196,7 +196,7 @@
             "open_issues": 1,
             "owner": "gquere",
             "repo": "pwn_jenkins",
-            "stars": 2098,
+            "stars": 2097,
             "topics": [
               "exploit",
               "hacking",
@@ -223,7 +223,7 @@
             "open_issues": 9,
             "owner": "mazen160",
             "repo": "secrets-patterns-db",
-            "stars": 1616,
+            "stars": 1617,
             "topics": [
               "gitleaks",
               "regex",
@@ -308,7 +308,7 @@
             "open_issues": 0,
             "owner": "Accenture",
             "repo": "jenkins-attack-framework",
-            "stars": 578,
+            "stars": 577,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
@@ -357,7 +357,7 @@
             "open_issues": 0,
             "owner": "xforcered",
             "repo": "ADOKit",
-            "stars": 317,
+            "stars": 316,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
@@ -405,7 +405,7 @@
             "open_issues": 1,
             "owner": "rung",
             "repo": "threat-matrix-cicd",
-            "stars": 775,
+            "stars": 772,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T06:57:54.797Z",
+    "last_updated": "2026-09-17T06:53:11.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
