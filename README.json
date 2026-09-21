@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-18T06:06:01Z",
-            "open_issues": 162,
+            "last_commit": "2026-09-20T18:39:27Z",
+            "open_issues": 160,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6537,
+            "stars": 6542,
             "topics": [
               "github-actions",
               "security",
@@ -171,7 +171,7 @@
             "open_issues": 10,
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2663,
+            "stars": 2665,
             "topics": [
               "git",
               "security",
@@ -223,7 +223,7 @@
             "open_issues": 9,
             "owner": "mazen160",
             "repo": "secrets-patterns-db",
-            "stars": 1617,
+            "stars": 1618,
             "topics": [
               "gitleaks",
               "regex",
@@ -253,7 +253,7 @@
             "open_issues": 17,
             "owner": "mxrch",
             "repo": "GitFive",
-            "stars": 1018,
+            "stars": 1019,
             "topics": [
               "github",
               "hideandsec",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:14:24.210Z",
+    "last_updated": "2026-09-21T07:23:20.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
