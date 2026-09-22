@@ -101,10 +101,10 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ## Tools
 
-* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,542 | 🐛 160 | 🌐 Rust | 📅 2026-09-20 - Static analysis for GitHub Actions.
+* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,551 | 🐛 160 | 🌐 Rust | 📅 2026-09-21 - Static analysis for GitHub Actions.
 * [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,665 | 🐛 10 | 🌐 Python | 📅 2026-09-06 - Dump Git repository from a website.
 * [pwn\_jenkins](https://github.com/gquere/pwn_jenkins) ⭐ 2,097 | 🐛 1 | 🌐 Python | 📅 2024-07-10 - Notes about attacking Jenkins servers.
-* [Secrets Patterns Database](https://github.com/mazen160/secrets-patterns-db) ⭐ 1,618 | 🐛 9 | 🌐 Python | 📅 2025-08-06 - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.
+* [Secrets Patterns Database](https://github.com/mazen160/secrets-patterns-db) ⭐ 1,619 | 🐛 9 | 🌐 Python | 📅 2025-08-06 - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.
 * [GitFive](https://github.com/mxrch/gitfive) ⭐ 1,019 | 🐛 17 | 🌐 Python | 📅 2025-10-04 - OSINT tool to investigate GitHub profiles.
 * [Gato-X](https://github.com/AdnaneKhan/Gato-X) ⭐ 590 | 🐛 22 | 🌐 Python | 📅 2026-07-20 - GitHub Attack Toolkit - Extreme Edition.
 * [Jenkins Attack Framework](https://github.com/Accenture/jenkins-attack-framework) ⭐ 577 | 🐛 0 | 🌐 Python | 📅 2025-07-12 - This tool can manage Jenkins tasks, like listing jobs, dumping credentials, running commands/scripts, and managing API tokens.
@@ -132,4 +132,4 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
