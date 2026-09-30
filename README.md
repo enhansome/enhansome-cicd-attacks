@@ -67,7 +67,7 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ### Post Exploitation
 
-* [Living off the pipeline](https://github.com/boostsecurityio/lotp) ⭐ 164 | 🐛 31 | 🌐 HTML | 📅 2026-07-31 - Inventory how development tools (typically CLIs), have lesser-known RCE-By-Design features.
+* [Living off the pipeline](https://github.com/boostsecurityio/lotp) ⭐ 163 | 🐛 31 | 🌐 HTML | 📅 2026-07-31 - Inventory how development tools (typically CLIs), have lesser-known RCE-By-Design features.
 * [From Self-Hosted GitHub Runner to Self-Hosted Backdoor](https://www.praetorian.com/blog/self-hosted-github-runners-are-backdoors/) - Attackers exploit misconfigured runners and weak PAT security to gain persistence, escalate privileges, and move laterally.
 * [Hacking Terraform State for Privilege Escalation](https://blog.plerion.com/hacking-terraform-state-privilege-escalation/) - Modifying a Terraform state file allows attackers to delete infrastructure or execute code via custom providers.
 * [Hijacking GitHub runners to compromise the organization](https://www.synacktiv.com/publications/hijacking-github-runners-to-compromise-the-organization) - Registering a GitHub runner with the ubuntu-latest tag grants access to jobs originally designated for GitHub-provisioned runners.
@@ -101,15 +101,15 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ## Tools
 
-* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,596 | 🐛 161 | 🌐 Rust | 📅 2026-09-29 - Static analysis for GitHub Actions.
-* [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,671 | 🐛 10 | 🌐 Python | 📅 2026-09-06 - Dump Git repository from a website.
-* [pwn\_jenkins](https://github.com/gquere/pwn_jenkins) ⭐ 2,098 | 🐛 1 | 🌐 Python | 📅 2024-07-10 - Notes about attacking Jenkins servers.
-* [Secrets Patterns Database](https://github.com/mazen160/secrets-patterns-db) ⭐ 1,620 | 🐛 9 | 🌐 Python | 📅 2025-08-06 - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.
-* [GitFive](https://github.com/mxrch/gitfive) ⭐ 1,021 | 🐛 17 | 🌐 Python | 📅 2025-10-04 - OSINT tool to investigate GitHub profiles.
+* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,609 | 🐛 162 | 🌐 Rust | 📅 2026-09-30 - Static analysis for GitHub Actions.
+* [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,669 | 🐛 10 | 🌐 Python | 📅 2026-09-06 - Dump Git repository from a website.
+* [pwn\_jenkins](https://github.com/gquere/pwn_jenkins) ⭐ 2,097 | 🐛 1 | 🌐 Python | 📅 2024-07-10 - Notes about attacking Jenkins servers.
+* [Secrets Patterns Database](https://github.com/mazen160/secrets-patterns-db) ⭐ 1,619 | 🐛 9 | 🌐 Python | 📅 2025-08-06 - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.
+* [GitFive](https://github.com/mxrch/gitfive) ⭐ 1,020 | 🐛 16 | 🌐 Python | 📅 2025-10-04 - OSINT tool to investigate GitHub profiles.
 * [Gato-X](https://github.com/AdnaneKhan/Gato-X) ⭐ 591 | 🐛 22 | 🌐 Python | 📅 2026-07-20 - GitHub Attack Toolkit - Extreme Edition.
 * [Jenkins Attack Framework](https://github.com/Accenture/jenkins-attack-framework) ⭐ 577 | 🐛 0 | 🌐 Python | 📅 2025-07-12 - This tool can manage Jenkins tasks, like listing jobs, dumping credentials, running commands/scripts, and managing API tokens.
 * [Nord Stream](https://github.com/synacktiv/nord-stream) ⭐ 376 | 🐛 1 | 🌐 Python | 📅 2026-07-10 - A tool to extract secrets stored inside CI/CD environments.
-* [ADOKit](https://github.com/xforcered/ADOKit) ⭐ 317 | 🐛 0 | 🌐 C# | 📅 2025-03-15 - Azure DevOps Services Attack Toolkit.
+* [ADOKit](https://github.com/xforcered/ADOKit) ⭐ 318 | 🐛 0 | 🌐 C# | 📅 2025-03-15 - Azure DevOps Services Attack Toolkit.
 * [Gato](https://github.com/praetorian-inc/gato) ⚠️ Archived - GitHub Attack Toolkit.
 * [GH Archive](https://www.gharchive.org/) - A project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
 * [GHTorrent Project](http://ghtorrent-downloads.ewi.tudelft.nl/mysql/) - A queryable offline mirror of the GitHub API data. [Tutorial](https://ghtorrent.github.io/tutorial/).
@@ -120,16 +120,16 @@ A curated list of unique and useful CI/CD attack techniques.
 ## Case Studies
 
 * [10 real-world stories of how we've compromised CI/CD pipelines](https://www.nccgroup.com/research-blog/10-real-world-stories-of-how-we-ve-compromised-cicd-pipelines/) - Examples include exploiting S3 misconfigurations, Jenkins plugin flaws, GitLab runner privilege escalations, Kubernetes pod annotation vulnerabilities, and compromised developer laptops.
-* [GitHub Actions Attack Diagram](https://github.com/jstawinski/GitHub-Actions-Attack-Diagram) ⭐ 194 | 🐛 0 | 📅 2025-04-16 - Includes public vulnerability research presented at Black Hat USA 2024 and DEF CON 32.
+* [GitHub Actions Attack Diagram](https://github.com/jstawinski/GitHub-Actions-Attack-Diagram) ⭐ 193 | 🐛 0 | 📅 2025-04-16 - Includes public vulnerability research presented at Black Hat USA 2024 and DEF CON 32.
 * [Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/) - Researchers exploited a critical PyTorch vulnerability via a malicious pull request to execute code on self-hosted runners.
 
 ## Similar Projects
 
-* [Common Threat Matrix for CI/CD Pipeline](https://github.com/rung/threat-matrix-cicd) ⭐ 772 | 🐛 1 | 📅 2026-05-31
+* [Common Threat Matrix for CI/CD Pipeline](https://github.com/rung/threat-matrix-cicd) ⭐ 771 | 🐛 1 | 📅 2026-05-31
 * [SDLC Infrastructure Threat Framework (SITF)](https://github.com/wiz-sec-public/SITF) ⭐ 181 | 🐛 0 | 🌐 HTML | 📅 2026-07-29 - A comprehensive framework for analyzing and defending against attacks targeting Software Development Life Cycle Infrastructure.
 * [Open Software Supply Chain Attack Reference (OSC\&R)](https://pbom.dev/)
 * [Risk Explorer for Software Supply Chains](https://riskexplorer.endorlabs.com/#/attack-tree)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

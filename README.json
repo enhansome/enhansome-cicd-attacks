@@ -81,7 +81,7 @@
                 "open_issues": 31,
                 "owner": "boostsecurityio",
                 "repo": "lotp",
-                "stars": 164,
+                "stars": 163,
                 "topics": [
                   "living-off-the-pipeline",
                   "lotp",
@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-29T04:08:50Z",
-            "open_issues": 161,
+            "last_commit": "2026-09-30T03:49:08Z",
+            "open_issues": 162,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6596,
+            "stars": 6609,
             "topics": [
               "github-actions",
               "security",
@@ -171,7 +171,7 @@
             "open_issues": 10,
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2671,
+            "stars": 2669,
             "topics": [
               "git",
               "security",
@@ -196,7 +196,7 @@
             "open_issues": 1,
             "owner": "gquere",
             "repo": "pwn_jenkins",
-            "stars": 2098,
+            "stars": 2097,
             "topics": [
               "exploit",
               "hacking",
@@ -223,7 +223,7 @@
             "open_issues": 9,
             "owner": "mazen160",
             "repo": "secrets-patterns-db",
-            "stars": 1620,
+            "stars": 1619,
             "topics": [
               "gitleaks",
               "regex",
@@ -250,10 +250,10 @@
             "language": "Python",
             "license": "MPL-2.0",
             "last_commit": "2025-10-04T15:33:37Z",
-            "open_issues": 17,
+            "open_issues": 16,
             "owner": "mxrch",
             "repo": "GitFive",
-            "stars": 1021,
+            "stars": 1020,
             "topics": [
               "github",
               "hideandsec",
@@ -357,7 +357,7 @@
             "open_issues": 0,
             "owner": "xforcered",
             "repo": "ADOKit",
-            "stars": 317,
+            "stars": 318,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
@@ -405,7 +405,7 @@
             "open_issues": 1,
             "owner": "rung",
             "repo": "threat-matrix-cicd",
-            "stars": 772,
+            "stars": 771,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T07:38:29.648Z",
+    "last_updated": "2026-09-30T07:40:20.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
