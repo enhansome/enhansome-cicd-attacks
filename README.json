@@ -136,12 +136,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Static analysis for GitHub Actions",
+            "description": "Static analysis for GitHub Actions (and more)",
             "homepage": "http://docs.zizmor.sh/",
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T03:07:54Z",
+            "last_commit": "2026-10-03T06:08:20Z",
             "open_issues": 162,
             "owner": "zizmorcore",
             "repo": "zizmor",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:37:28.349Z",
+    "last_updated": "2026-10-03T07:14:52.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
