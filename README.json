@@ -145,7 +145,7 @@
             "open_issues": 162,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6621,
+            "stars": 6631,
             "topics": [
               "github-actions",
               "security",
@@ -171,7 +171,7 @@
             "open_issues": 10,
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2673,
+            "stars": 2674,
             "topics": [
               "git",
               "security",
@@ -223,7 +223,7 @@
             "open_issues": 9,
             "owner": "mazen160",
             "repo": "secrets-patterns-db",
-            "stars": 1618,
+            "stars": 1616,
             "topics": [
               "gitleaks",
               "regex",
@@ -276,8 +276,8 @@
             "id": 749160816,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-20T17:13:24Z",
-            "open_issues": 22,
+            "last_commit": "2026-10-02T19:38:33Z",
+            "open_issues": 21,
             "owner": "AdnaneKhan",
             "repo": "gato-x",
             "stars": 592,
@@ -392,7 +392,7 @@
         {
           "node_type": "item",
           "title": "Common Threat Matrix for CI/CD Pipeline",
-          "description": null,
+          "description": "rung/threat-matrix-cicd",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:42:14.740Z",
+    "last_updated": "2026-10-03T04:37:28.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
