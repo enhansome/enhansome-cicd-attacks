@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-05T03:49:18Z",
-            "open_issues": 164,
+            "last_commit": "2026-10-05T13:47:02Z",
+            "open_issues": 167,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6637,
+            "stars": 6641,
             "topics": [
               "github-actions",
               "security",
@@ -171,7 +171,7 @@
             "open_issues": 10,
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2676,
+            "stars": 2677,
             "topics": [
               "git",
               "security",
@@ -196,7 +196,7 @@
             "open_issues": 1,
             "owner": "gquere",
             "repo": "pwn_jenkins",
-            "stars": 2097,
+            "stars": 2098,
             "topics": [
               "exploit",
               "hacking",
@@ -250,7 +250,7 @@
             "language": "Python",
             "license": "MPL-2.0",
             "last_commit": "2025-10-04T15:33:37Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "mxrch",
             "repo": "GitFive",
             "stars": 1020,
@@ -357,7 +357,7 @@
             "open_issues": 0,
             "owner": "xforcered",
             "repo": "ADOKit",
-            "stars": 318,
+            "stars": 317,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
@@ -426,7 +426,7 @@
             "open_issues": 0,
             "owner": "wiz-sec-public",
             "repo": "SITF",
-            "stars": 181,
+            "stars": 182,
             "topics": [
               "agent-skills",
               "sdlc-security",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T07:52:19.224Z",
+    "last_updated": "2026-10-06T08:16:57.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
@@ -452,7 +452,7 @@
       "open_issues": 2,
       "owner": "TupleType",
       "repo": "awesome-cicd-attacks",
-      "stars": 632,
+      "stars": 633,
       "topics": [
         "appsec",
         "awesome",
