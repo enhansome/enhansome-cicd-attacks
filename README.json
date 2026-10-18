@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-17T00:31:12Z",
+            "last_commit": "2026-10-18T04:17:16Z",
             "open_issues": 169,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6718,
+            "stars": 6724,
             "topics": [
               "github-actions",
               "security",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T06:21:51.178Z",
+    "last_updated": "2026-10-18T06:46:29.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
