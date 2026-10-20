@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-19T04:09:14Z",
-            "open_issues": 170,
+            "last_commit": "2026-10-20T06:12:19Z",
+            "open_issues": 172,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6730,
+            "stars": 6737,
             "topics": [
               "github-actions",
               "security",
@@ -171,7 +171,7 @@
             "open_issues": 10,
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2685,
+            "stars": 2686,
             "topics": [
               "git",
               "security",
@@ -326,7 +326,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-07-10T10:15:00Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "synacktiv",
             "repo": "nord-stream",
             "stars": 378,
@@ -357,7 +357,7 @@
             "open_issues": 0,
             "owner": "xforcered",
             "repo": "ADOKit",
-            "stars": 318,
+            "stars": 317,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T07:04:56.753Z",
+    "last_updated": "2026-10-20T06:49:43.735Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
