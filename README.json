@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-20T06:12:19Z",
-            "open_issues": 172,
+            "last_commit": "2026-10-21T04:38:19Z",
+            "open_issues": 173,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6737,
+            "stars": 6741,
             "topics": [
               "github-actions",
               "security",
@@ -171,7 +171,7 @@
             "open_issues": 10,
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2686,
+            "stars": 2690,
             "topics": [
               "git",
               "security",
@@ -223,7 +223,7 @@
             "open_issues": 9,
             "owner": "mazen160",
             "repo": "secrets-patterns-db",
-            "stars": 1621,
+            "stars": 1620,
             "topics": [
               "gitleaks",
               "regex",
@@ -253,7 +253,7 @@
             "open_issues": 17,
             "owner": "mxrch",
             "repo": "GitFive",
-            "stars": 1022,
+            "stars": 1023,
             "topics": [
               "github",
               "hideandsec",
@@ -325,8 +325,8 @@
             "id": 608183299,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-10T10:15:00Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-20T09:02:45Z",
+            "open_issues": 1,
             "owner": "synacktiv",
             "repo": "nord-stream",
             "stars": 378,
@@ -357,7 +357,7 @@
             "open_issues": 0,
             "owner": "xforcered",
             "repo": "ADOKit",
-            "stars": 317,
+            "stars": 318,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
@@ -426,7 +426,7 @@
             "open_issues": 0,
             "owner": "wiz-sec-public",
             "repo": "SITF",
-            "stars": 182,
+            "stars": 183,
             "topics": [
               "agent-skills",
               "sdlc-security",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T06:49:43.735Z",
+    "last_updated": "2026-10-21T06:44:39.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
