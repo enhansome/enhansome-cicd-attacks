@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-22T04:28:15Z",
-            "open_issues": 173,
+            "last_commit": "2026-10-23T05:28:48Z",
+            "open_issues": 171,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6754,
+            "stars": 6757,
             "topics": [
               "github-actions",
               "security",
@@ -171,7 +171,7 @@
             "open_issues": 10,
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2692,
+            "stars": 2691,
             "topics": [
               "git",
               "security",
@@ -196,7 +196,7 @@
             "open_issues": 1,
             "owner": "gquere",
             "repo": "pwn_jenkins",
-            "stars": 2102,
+            "stars": 2100,
             "topics": [
               "exploit",
               "hacking",
@@ -223,7 +223,7 @@
             "open_issues": 9,
             "owner": "mazen160",
             "repo": "secrets-patterns-db",
-            "stars": 1620,
+            "stars": 1622,
             "topics": [
               "gitleaks",
               "regex",
@@ -280,7 +280,7 @@
             "open_issues": 21,
             "owner": "AdnaneKhan",
             "repo": "gato-x",
-            "stars": 593,
+            "stars": 592,
             "topics": [
               "bugbounty",
               "cicd",
@@ -357,7 +357,7 @@
             "open_issues": 0,
             "owner": "xforcered",
             "repo": "ADOKit",
-            "stars": 318,
+            "stars": 317,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
@@ -422,11 +422,11 @@
             "id": 1139066861,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-07-29T09:12:04Z",
+            "last_commit": "2026-10-22T15:07:07Z",
             "open_issues": 0,
             "owner": "wiz-sec-public",
             "repo": "SITF",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "agent-skills",
               "sdlc-security",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T06:47:38.519Z",
+    "last_updated": "2026-10-23T06:41:28.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
