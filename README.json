@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-23T05:28:48Z",
-            "open_issues": 171,
+            "last_commit": "2026-10-25T04:58:23Z",
+            "open_issues": 166,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6766,
+            "stars": 6776,
             "topics": [
               "github-actions",
               "security",
@@ -171,7 +171,7 @@
             "open_issues": 10,
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2692,
+            "stars": 2694,
             "topics": [
               "git",
               "security",
@@ -253,7 +253,7 @@
             "open_issues": 17,
             "owner": "mxrch",
             "repo": "GitFive",
-            "stars": 1023,
+            "stars": 1024,
             "topics": [
               "github",
               "hideandsec",
@@ -308,7 +308,7 @@
             "open_issues": 0,
             "owner": "Accenture",
             "repo": "jenkins-attack-framework",
-            "stars": 577,
+            "stars": 578,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
@@ -357,7 +357,7 @@
             "open_issues": 0,
             "owner": "xforcered",
             "repo": "ADOKit",
-            "stars": 317,
+            "stars": 316,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
@@ -378,7 +378,7 @@
             "open_issues": 15,
             "owner": "praetorian-inc",
             "repo": "gato",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T06:38:51.757Z",
+    "last_updated": "2026-10-25T07:04:52.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
