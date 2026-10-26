@@ -35,7 +35,7 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ### Initial Code Execution
 
-* [ActionsTOCTOU (Time Of Check to Time Of Use)](https://github.com/AdnaneKhan/ActionsTOCTOU/) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2026-01-25 - A tool to monitor for an approval event and then quickly replace a file in the PR head with a local file specified as a parameter.
+* [ActionsTOCTOU (Time Of Check to Time Of Use)](https://github.com/AdnaneKhan/ActionsTOCTOU/) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2026-01-25 - A tool to monitor for an approval event and then quickly replace a file in the PR head with a local file specified as a parameter.
 * [AWS Targeted by a Package Backfill Attack](https://www.mend.io/blog/aws-targeted-by-a-package-backfill-attack/) - Scan commit history for internal packages to execute dependency confusion.
 * [Can you trust ChatGPT's package recommendations?](https://vulcan.io/blog/ai-hallucinations-package-risk) - Exploit generative AI platforms' tendency to generate non-existent coding libraries to execute Dependecy Confusion.
 * [Can You Trust Your VSCode Extensions?](https://www.aquasec.com/blog/can-you-trust-your-vscode-extensions/) - Impersonate popular VSCode extensions and trick unknowing developers into downloading them.
@@ -101,12 +101,12 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ## Tools
 
-* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,776 | 🐛 166 | 🌐 Rust | 📅 2026-10-25 - Static analysis for GitHub Actions.
+* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,780 | 🐛 167 | 🌐 Rust | 📅 2026-10-25 - Static analysis for GitHub Actions.
 * [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,694 | 🐛 10 | 🌐 Python | 📅 2026-09-06 - Dump Git repository from a website.
 * [pwn\_jenkins](https://github.com/gquere/pwn_jenkins) ⭐ 2,101 | 🐛 1 | 🌐 Python | 📅 2024-07-10 - Notes about attacking Jenkins servers.
 * [Secrets Patterns Database](https://github.com/mazen160/secrets-patterns-db) ⭐ 1,622 | 🐛 9 | 🌐 Python | 📅 2025-08-06 - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.
-* [GitFive](https://github.com/mxrch/gitfive) ⭐ 1,024 | 🐛 17 | 🌐 Python | 📅 2025-10-04 - OSINT tool to investigate GitHub profiles.
-* [Gato-X](https://github.com/AdnaneKhan/Gato-X) ⭐ 593 | 🐛 21 | 🌐 Python | 📅 2026-10-02 - GitHub Attack Toolkit - Extreme Edition.
+* [GitFive](https://github.com/mxrch/gitfive) ⭐ 1,025 | 🐛 17 | 🌐 Python | 📅 2025-10-04 - OSINT tool to investigate GitHub profiles.
+* [Gato-X](https://github.com/AdnaneKhan/Gato-X) ⭐ 594 | 🐛 21 | 🌐 Python | 📅 2026-10-02 - GitHub Attack Toolkit - Extreme Edition.
 * [Jenkins Attack Framework](https://github.com/Accenture/jenkins-attack-framework) ⭐ 578 | 🐛 0 | 🌐 Python | 📅 2025-07-12 - This tool can manage Jenkins tasks, like listing jobs, dumping credentials, running commands/scripts, and managing API tokens.
 * [Nord Stream](https://github.com/synacktiv/nord-stream) ⭐ 378 | 🐛 1 | 🌐 Python | 📅 2026-10-20 - A tool to extract secrets stored inside CI/CD environments.
 * [ADOKit](https://github.com/xforcered/ADOKit) ⭐ 316 | 🐛 0 | 🌐 C# | 📅 2025-03-15 - Azure DevOps Services Attack Toolkit.
@@ -132,4 +132,4 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
