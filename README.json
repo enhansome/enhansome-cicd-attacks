@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-25T22:41:24Z",
-            "open_issues": 167,
+            "last_commit": "2026-10-26T18:17:54Z",
+            "open_issues": 171,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6780,
+            "stars": 6792,
             "topics": [
               "github-actions",
               "security",
@@ -171,7 +171,7 @@
             "open_issues": 10,
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2694,
+            "stars": 2696,
             "topics": [
               "git",
               "security",
@@ -357,7 +357,7 @@
             "open_issues": 0,
             "owner": "xforcered",
             "repo": "ADOKit",
-            "stars": 316,
+            "stars": 317,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
@@ -426,7 +426,7 @@
             "open_issues": 0,
             "owner": "wiz-sec-public",
             "repo": "SITF",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "agent-skills",
               "sdlc-security",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T07:11:46.121Z",
+    "last_updated": "2026-10-27T06:59:33.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
