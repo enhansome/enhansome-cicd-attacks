@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-03T05:54:20Z",
-            "open_issues": 180,
+            "last_commit": "2026-11-07T06:13:35Z",
+            "open_issues": 173,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6914,
+            "stars": 6927,
             "topics": [
               "github-actions",
               "security",
@@ -308,7 +308,7 @@
             "open_issues": 0,
             "owner": "Accenture",
             "repo": "jenkins-attack-framework",
-            "stars": 579,
+            "stars": 578,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T08:43:03.707Z",
+    "last_updated": "2026-11-07T07:57:28.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
