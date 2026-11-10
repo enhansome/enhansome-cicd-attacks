@@ -101,14 +101,14 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ## Tools
 
-* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,943 | 🐛 172 | 🌐 Rust | 📅 2026-11-08 - Static analysis for GitHub Actions.
-* [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,706 | 🐛 10 | 🌐 Python | 📅 2026-09-06 - Dump Git repository from a website.
+* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 6,955 | 🐛 177 | 🌐 Rust | 📅 2026-11-09 - Static analysis for GitHub Actions.
+* [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,707 | 🐛 10 | 🌐 Python | 📅 2026-09-06 - Dump Git repository from a website.
 * [pwn\_jenkins](https://github.com/gquere/pwn_jenkins) ⭐ 2,101 | 🐛 1 | 🌐 Python | 📅 2024-07-10 - Notes about attacking Jenkins servers.
 * [Secrets Patterns Database](https://github.com/mazen160/secrets-patterns-db) ⭐ 1,625 | 🐛 9 | 🌐 Python | 📅 2025-08-06 - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.
 * [GitFive](https://github.com/mxrch/gitfive) ⭐ 1,029 | 🐛 17 | 🌐 Python | 📅 2025-10-04 - OSINT tool to investigate GitHub profiles.
 * [Gato-X](https://github.com/AdnaneKhan/Gato-X) ⭐ 593 | 🐛 21 | 🌐 Python | 📅 2026-10-02 - GitHub Attack Toolkit - Extreme Edition.
 * [Jenkins Attack Framework](https://github.com/Accenture/jenkins-attack-framework) ⭐ 578 | 🐛 0 | 🌐 Python | 📅 2025-07-12 - This tool can manage Jenkins tasks, like listing jobs, dumping credentials, running commands/scripts, and managing API tokens.
-* [Nord Stream](https://github.com/synacktiv/nord-stream) ⭐ 379 | 🐛 1 | 🌐 Python | 📅 2026-10-20 - A tool to extract secrets stored inside CI/CD environments.
+* [Nord Stream](https://github.com/synacktiv/nord-stream) ⭐ 381 | 🐛 1 | 🌐 Python | 📅 2026-10-20 - A tool to extract secrets stored inside CI/CD environments.
 * [ADOKit](https://github.com/xforcered/ADOKit) ⭐ 319 | 🐛 0 | 🌐 C# | 📅 2025-03-15 - Azure DevOps Services Attack Toolkit.
 * [Gato](https://github.com/praetorian-inc/gato) ⚠️ Archived - GitHub Attack Toolkit.
 * [GH Archive](https://www.gharchive.org/) - A project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
@@ -125,11 +125,11 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ## Similar Projects
 
-* [Common Threat Matrix for CI/CD Pipeline](https://github.com/rung/threat-matrix-cicd) ⭐ 772 | 🐛 1 | 📅 2026-05-31
-* [SDLC Infrastructure Threat Framework (SITF)](https://github.com/wiz-sec-public/SITF) ⭐ 185 | 🐛 0 | 🌐 HTML | 📅 2026-11-02 - A comprehensive framework for analyzing and defending against attacks targeting Software Development Life Cycle Infrastructure.
+* [Common Threat Matrix for CI/CD Pipeline](https://github.com/rung/threat-matrix-cicd) ⭐ 773 | 🐛 1 | 📅 2026-05-31
+* [SDLC Infrastructure Threat Framework (SITF)](https://github.com/wiz-sec-public/SITF) ⭐ 185 | 🐛 1 | 🌐 HTML | 📅 2026-11-02 - A comprehensive framework for analyzing and defending against attacks targeting Software Development Life Cycle Infrastructure.
 * [Open Software Supply Chain Attack Reference (OSC\&R)](https://pbom.dev/)
 * [Risk Explorer for Software Supply Chains](https://riskexplorer.endorlabs.com/#/attack-tree)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

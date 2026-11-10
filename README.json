@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-08T05:46:25Z",
-            "open_issues": 172,
+            "last_commit": "2026-11-09T13:36:58Z",
+            "open_issues": 177,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6943,
+            "stars": 6955,
             "topics": [
               "github-actions",
               "security",
@@ -171,7 +171,7 @@
             "open_issues": 10,
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2706,
+            "stars": 2707,
             "topics": [
               "git",
               "security",
@@ -329,7 +329,7 @@
             "open_issues": 1,
             "owner": "synacktiv",
             "repo": "nord-stream",
-            "stars": 379,
+            "stars": 381,
             "topics": [
               "azuredevops",
               "ci-cd",
@@ -405,7 +405,7 @@
             "open_issues": 1,
             "owner": "rung",
             "repo": "threat-matrix-cicd",
-            "stars": 772,
+            "stars": 773,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
@@ -423,7 +423,7 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T15:12:44Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "wiz-sec-public",
             "repo": "SITF",
             "stars": 185,
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T08:49:42.024Z",
+    "last_updated": "2026-11-10T08:55:37.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
