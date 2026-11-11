@@ -81,7 +81,7 @@
                 "open_issues": 31,
                 "owner": "boostsecurityio",
                 "repo": "lotp",
-                "stars": 162,
+                "stars": 163,
                 "topics": [
                   "living-off-the-pipeline",
                   "lotp",
@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-09T13:36:58Z",
-            "open_issues": 177,
+            "last_commit": "2026-11-11T03:53:31Z",
+            "open_issues": 174,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 6955,
+            "stars": 6966,
             "topics": [
               "github-actions",
               "security",
@@ -171,7 +171,7 @@
             "open_issues": 10,
             "owner": "arthaud",
             "repo": "git-dumper",
-            "stars": 2707,
+            "stars": 2708,
             "topics": [
               "git",
               "security",
@@ -223,7 +223,7 @@
             "open_issues": 9,
             "owner": "mazen160",
             "repo": "secrets-patterns-db",
-            "stars": 1625,
+            "stars": 1626,
             "topics": [
               "gitleaks",
               "regex",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:55:37.219Z",
+    "last_updated": "2026-11-11T08:35:52.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
