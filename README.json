@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-16T05:36:38Z",
-            "open_issues": 179,
+            "last_commit": "2026-11-17T05:59:04Z",
+            "open_issues": 180,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 7063,
+            "stars": 7069,
             "topics": [
               "github-actions",
               "security",
@@ -253,7 +253,7 @@
             "open_issues": 17,
             "owner": "mxrch",
             "repo": "GitFive",
-            "stars": 1035,
+            "stars": 1034,
             "topics": [
               "github",
               "hideandsec",
@@ -280,7 +280,7 @@
             "open_issues": 21,
             "owner": "AdnaneKhan",
             "repo": "gato-x",
-            "stars": 594,
+            "stars": 595,
             "topics": [
               "bugbounty",
               "cicd",
@@ -422,8 +422,8 @@
             "id": 1139066861,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-15T09:08:17Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-16T08:56:23Z",
+            "open_issues": 0,
             "owner": "wiz-sec-public",
             "repo": "SITF",
             "stars": 185,
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T08:44:46.032Z",
+    "last_updated": "2026-11-17T09:52:13.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
