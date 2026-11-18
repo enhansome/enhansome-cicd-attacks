@@ -77,7 +77,7 @@
                 "id": 758064230,
                 "language": "HTML",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-31T15:48:01Z",
+                "last_commit": "2026-11-17T15:07:06Z",
                 "open_issues": 31,
                 "owner": "boostsecurityio",
                 "repo": "lotp",
@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-17T05:59:04Z",
-            "open_issues": 180,
+            "last_commit": "2026-11-18T05:41:28Z",
+            "open_issues": 176,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 7069,
+            "stars": 7079,
             "topics": [
               "github-actions",
               "security",
@@ -357,7 +357,7 @@
             "open_issues": 0,
             "owner": "xforcered",
             "repo": "ADOKit",
-            "stars": 319,
+            "stars": 320,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T09:52:13.566Z",
+    "last_updated": "2026-11-18T09:26:15.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
