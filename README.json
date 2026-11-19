@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-18T05:41:28Z",
+            "last_commit": "2026-11-19T07:01:59Z",
             "open_issues": 176,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 7079,
+            "stars": 7090,
             "topics": [
               "github-actions",
               "security",
@@ -196,7 +196,7 @@
             "open_issues": 1,
             "owner": "gquere",
             "repo": "pwn_jenkins",
-            "stars": 2103,
+            "stars": 2102,
             "topics": [
               "exploit",
               "hacking",
@@ -223,7 +223,7 @@
             "open_issues": 9,
             "owner": "mazen160",
             "repo": "secrets-patterns-db",
-            "stars": 1626,
+            "stars": 1628,
             "topics": [
               "gitleaks",
               "regex",
@@ -280,7 +280,7 @@
             "open_issues": 21,
             "owner": "AdnaneKhan",
             "repo": "gato-x",
-            "stars": 595,
+            "stars": 596,
             "topics": [
               "bugbounty",
               "cicd",
@@ -357,7 +357,7 @@
             "open_issues": 0,
             "owner": "xforcered",
             "repo": "ADOKit",
-            "stars": 320,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-28T13:30:17.335Z"
@@ -426,7 +426,7 @@
             "open_issues": 0,
             "owner": "wiz-sec-public",
             "repo": "SITF",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "agent-skills",
               "sdlc-security",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T09:26:15.885Z",
+    "last_updated": "2026-11-19T09:37:53.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
@@ -452,7 +452,7 @@
       "open_issues": 2,
       "owner": "TupleType",
       "repo": "awesome-cicd-attacks",
-      "stars": 645,
+      "stars": 646,
       "topics": [
         "appsec",
         "awesome",
