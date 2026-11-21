@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-19T07:01:59Z",
-            "open_issues": 176,
+            "last_commit": "2026-11-21T06:22:41Z",
+            "open_issues": 177,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 7099,
+            "stars": 7105,
             "topics": [
               "github-actions",
               "security",
@@ -196,7 +196,7 @@
             "open_issues": 1,
             "owner": "gquere",
             "repo": "pwn_jenkins",
-            "stars": 2101,
+            "stars": 2102,
             "topics": [
               "exploit",
               "hacking",
@@ -253,7 +253,7 @@
             "open_issues": 17,
             "owner": "mxrch",
             "repo": "GitFive",
-            "stars": 1032,
+            "stars": 1033,
             "topics": [
               "github",
               "hideandsec",
@@ -280,7 +280,7 @@
             "open_issues": 21,
             "owner": "AdnaneKhan",
             "repo": "gato-x",
-            "stars": 595,
+            "stars": 596,
             "topics": [
               "bugbounty",
               "cicd",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T09:22:10.394Z",
+    "last_updated": "2026-11-21T08:57:02.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
