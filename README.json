@@ -145,7 +145,7 @@
             "open_issues": 177,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 7105,
+            "stars": 7114,
             "topics": [
               "github-actions",
               "security",
@@ -253,7 +253,7 @@
             "open_issues": 17,
             "owner": "mxrch",
             "repo": "GitFive",
-            "stars": 1033,
+            "stars": 1036,
             "topics": [
               "github",
               "hideandsec",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T08:57:02.797Z",
+    "last_updated": "2026-11-22T08:59:29.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
