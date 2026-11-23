@@ -141,11 +141,11 @@
             "id": 844670429,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-21T06:22:41Z",
-            "open_issues": 177,
+            "last_commit": "2026-11-22T22:13:13Z",
+            "open_issues": 178,
             "owner": "zizmorcore",
             "repo": "zizmor",
-            "stars": 7114,
+            "stars": 7122,
             "topics": [
               "github-actions",
               "security",
@@ -253,7 +253,7 @@
             "open_issues": 17,
             "owner": "mxrch",
             "repo": "GitFive",
-            "stars": 1036,
+            "stars": 1037,
             "topics": [
               "github",
               "hideandsec",
@@ -426,7 +426,7 @@
             "open_issues": 0,
             "owner": "wiz-sec-public",
             "repo": "SITF",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "agent-skills",
               "sdlc-security",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T08:59:29.854Z",
+    "last_updated": "2026-11-23T09:57:59.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
