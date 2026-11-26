@@ -67,7 +67,7 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ### Post Exploitation
 
-* [Living off the pipeline](https://github.com/boostsecurityio/lotp) ⭐ 163 | 🐛 31 | 🌐 HTML | 📅 2026-11-17 - Inventory how development tools (typically CLIs), have lesser-known RCE-By-Design features.
+* [Living off the pipeline](https://github.com/boostsecurityio/lotp) ⭐ 164 | 🐛 31 | 🌐 HTML | 📅 2026-11-17 - Inventory how development tools (typically CLIs), have lesser-known RCE-By-Design features.
 * [From Self-Hosted GitHub Runner to Self-Hosted Backdoor](https://www.praetorian.com/blog/self-hosted-github-runners-are-backdoors/) - Attackers exploit misconfigured runners and weak PAT security to gain persistence, escalate privileges, and move laterally.
 * [Hacking Terraform State for Privilege Escalation](https://blog.plerion.com/hacking-terraform-state-privilege-escalation/) - Modifying a Terraform state file allows attackers to delete infrastructure or execute code via custom providers.
 * [Hijacking GitHub runners to compromise the organization](https://www.synacktiv.com/publications/hijacking-github-runners-to-compromise-the-organization) - Registering a GitHub runner with the ubuntu-latest tag grants access to jobs originally designated for GitHub-provisioned runners.
@@ -101,11 +101,11 @@ A curated list of unique and useful CI/CD attack techniques.
 
 ## Tools
 
-* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 7,157 | 🐛 180 | 🌐 Rust | 📅 2026-11-24 - Static analysis for GitHub Actions.
-* [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,710 | 🐛 10 | 🌐 Python | 📅 2026-09-06 - Dump Git repository from a website.
+* [zizmor](https://github.com/zizmorcore/zizmor) ⭐ 7,170 | 🐛 181 | 🌐 Rust | 📅 2026-11-25 - Static analysis for GitHub Actions.
+* [git-dumper](https://github.com/arthaud/git-dumper) ⭐ 2,712 | 🐛 10 | 🌐 Python | 📅 2026-09-06 - Dump Git repository from a website.
 * [pwn\_jenkins](https://github.com/gquere/pwn_jenkins) ⭐ 2,102 | 🐛 1 | 🌐 Python | 📅 2024-07-10 - Notes about attacking Jenkins servers.
-* [Secrets Patterns Database](https://github.com/mazen160/secrets-patterns-db) ⭐ 1,628 | 🐛 9 | 🌐 Python | 📅 2025-08-06 - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.
-* [GitFive](https://github.com/mxrch/gitfive) ⭐ 1,038 | 🐛 17 | 🌐 Python | 📅 2025-10-04 - OSINT tool to investigate GitHub profiles.
+* [Secrets Patterns Database](https://github.com/mazen160/secrets-patterns-db) ⭐ 1,629 | 🐛 9 | 🌐 Python | 📅 2025-08-06 - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.
+* [GitFive](https://github.com/mxrch/gitfive) ⭐ 1,039 | 🐛 17 | 🌐 Python | 📅 2025-10-04 - OSINT tool to investigate GitHub profiles.
 * [Gato-X](https://github.com/AdnaneKhan/Gato-X) ⭐ 597 | 🐛 21 | 🌐 Python | 📅 2026-10-02 - GitHub Attack Toolkit - Extreme Edition.
 * [Jenkins Attack Framework](https://github.com/Accenture/jenkins-attack-framework) ⭐ 578 | 🐛 0 | 🌐 Python | 📅 2025-07-12 - This tool can manage Jenkins tasks, like listing jobs, dumping credentials, running commands/scripts, and managing API tokens.
 * [Nord Stream](https://github.com/synacktiv/nord-stream) ⭐ 380 | 🐛 1 | 🌐 Python | 📅 2026-10-20 - A tool to extract secrets stored inside CI/CD environments.
@@ -126,10 +126,10 @@ A curated list of unique and useful CI/CD attack techniques.
 ## Similar Projects
 
 * [Common Threat Matrix for CI/CD Pipeline](https://github.com/rung/threat-matrix-cicd) ⭐ 772 | 🐛 1 | 📅 2026-05-31
-* [SDLC Infrastructure Threat Framework (SITF)](https://github.com/wiz-sec-public/SITF) ⭐ 188 | 🐛 0 | 🌐 HTML | 📅 2026-11-16 - A comprehensive framework for analyzing and defending against attacks targeting Software Development Life Cycle Infrastructure.
+* [SDLC Infrastructure Threat Framework (SITF)](https://github.com/wiz-sec-public/SITF) ⭐ 189 | 🐛 0 | 🌐 HTML | 📅 2026-11-16 - A comprehensive framework for analyzing and defending against attacks targeting Software Development Life Cycle Infrastructure.
 * [Open Software Supply Chain Attack Reference (OSC\&R)](https://pbom.dev/)
 * [Risk Explorer for Software Supply Chains](https://riskexplorer.endorlabs.com/#/attack-tree)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
